@@ -1,0 +1,16 @@
+titanic-survival-analysis/
+│
+├── data/
+│   ├── raw/                # titanic.csv original (nunca alterado)
+│   └── processed/          # Dados após limpeza
+│
+├── notebooks/
+│   └── 01_eda_and_modeling_titanic.ipynb  # Onde a mágica acontece
+│
+├── src/                    # Scripts Python auxiliares
+│   ├── __init__.py
+│   └── data_processing.py  # Funções personalizadas de gráficos
+│
+├── .gitignore              # Para ignorar ambientes virtuais e arquivos de cache
+├── requirements.txt        # Dependências (pandas, seaborn, scikit-learn)
+└── README.md               # Documentação do projeto
