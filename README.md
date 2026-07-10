@@ -21,7 +21,7 @@ Este repositório contém uma análise aprofundada ponta-a-ponta e modelagem pre
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/jlfcar2/titanic-survival-analysis.git](https://github.com/SEU_USUARIO/titanic-survival-analysis.git)
+   git clone https://github.com/jlfcar2/titanic-survival-analysis.git
    ```
 
 2. Crie e ative um ambiente virtual:
